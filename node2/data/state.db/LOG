@@ -1,0 +1,6 @@
+=============== Jan 20, 2021 (+07) ===============
+13:21:00.052250 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:21:00.063229 db@open opening
+13:21:00.063650 version@stat F·[] S·0B[] Sc·[]
+13:21:00.070559 db@janitor F·2 G·0
+13:21:00.070583 db@open done T·7.334626ms
